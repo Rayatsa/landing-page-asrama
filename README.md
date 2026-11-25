@@ -1,4 +1,4 @@
-# TelkomDormitory
+# landing-page-asrama
 
 P1-02 Landing Page R&D Senior Resident Telkom University. Repository bersama untuk website publik dan integrasi kontennya. Implementasi awal mencakup halaman kegiatan, berita dan dokumentasi, serta pengumuman.
 

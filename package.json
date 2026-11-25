@@ -1,5 +1,5 @@
 {
-  "name": "telkomdormitory",
+  "name": "landing-page-asrama",
   "private": true,
   "scripts": {
     "dev": "node node_modules/next/dist/bin/next dev",

@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "telkomdormitory",
+      "name": "landing-page-asrama",
       "dependencies": {
         "next": "latest",
         "react": "latest",

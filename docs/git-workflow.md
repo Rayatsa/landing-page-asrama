@@ -1,12 +1,12 @@
 # Alur kolaborasi Git
 
-Repository GitHub yang dituju adalah `TelkomDormitory` privat di organisasi **Tel-U Dormitory** dengan default branch `main`. Gunakan URL dan slug setelah diverifikasi oleh akun Rayatsa. Jika repository sudah berisi commit, ambil riwayatnya dan integrasikan perubahan dengan aman.
+Repository GitHub yang dituju adalah `landing-page-asrama` privat di organisasi **Tel-U Dormitory** dengan default branch `main`. Gunakan URL dan slug setelah diverifikasi oleh akun Rayatsa. Jika repository sudah berisi commit, ambil riwayatnya dan integrasikan perubahan dengan aman.
 
 Setelah menerima akses repository, jalankan perintah berikut dengan URL remote yang diverifikasi.
 
 ```sh
 git clone <url-repository>
-cd TelkomDormitory
+cd landing-page-asrama
 bun install --frozen-lockfile
 git switch main
 git pull --ff-only
